@@ -18,29 +18,29 @@ This is a simple **command-line calculator** built using Python. It performs bas
 
 The program runs in a loop and presents the following options:
 
-1.calculator
-2.history
-3.clear history
-4.exit
+- 1.calculator
+- 2.history
+- 3.clear history
+- 4.exit
 
 ## Sample output
 
-enter the choice 
- 1 for calculator 
- 2 for history 
- 3 for deleting history 
- 4 for exit
-enter the choice 1
-enter the num1 12
-enter the num2 4
-enter the operation /
-Division =  3.0
+- enter the choice 
+- 1 for calculator 
+- 2 for history 
+- 3 for deleting history 
+- 4 for exit
+- enter the choice 1
+- enter the num1 12
+- enter the num2 4
+- enter the operation /
+- Division =  3.0
 
-enter the choice 
- 1 for calculator 
- 2 for history 
- 3 for deleting history 
- 4 for exit
-enter the choice 2
-history 
-1. 12 / 4 = 3.0
+- enter the choice 
+- 1 for calculator 
+- 2 for history 
+- 3 for deleting history 
+- 4 for exit
+- enter the choice 2
+- history 
+- 1. 12 / 4 = 3.0
